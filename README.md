@@ -16,6 +16,8 @@ RaySDK is compatible with projects for iOS 8 and above
 	* Make sure the `NSLocationAlwaysUsageDescription` or `NSLocationWhenInUseUsageDescription` key is present in your plist file.
 4. Call `RSDK.sharedInstance.startMonitoring()` to begin monitoring for _Ray_ beacons
 
+__*Additional documentation can be found at [here](http://madewithray.github.io/ray-ios-sdk/index.html)*__
+
 ###Optional Configurations
 **Variable** | **Description**
 --- | --- | ---
