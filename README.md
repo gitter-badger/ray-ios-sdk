@@ -1,4 +1,6 @@
 # RaySDK for iOS
+
+[![Join the chat at https://gitter.im/madewithray/ray-ios-sdk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/madewithray/ray-ios-sdk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The RaySDK allows you to interact with Ray beacons in the wild.
 
 ##Prerequisites
